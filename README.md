@@ -1,8 +1,8 @@
-# Database Design and Implementation
+# Database Design and Implementation I
 *Prepared for ISYS224 - Database Design and Implementation - Macquarie University 2019* <br>
 ***by Hoang Van Le***
 
-This repository is created to show my work in the unit ISYS224 - Database Design and Implementation.
+This repository is created to show my work - assignment 1, in the unit ISYS224 - Database Design and Implementation.
 ## Set up
 * Software used for this assessment is MySQL Workbench (8.0 CE).
 * DDL.sql is the script where I defined the tables and their relations.
